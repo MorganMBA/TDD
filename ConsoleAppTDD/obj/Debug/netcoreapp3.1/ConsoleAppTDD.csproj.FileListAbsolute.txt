@@ -1,0 +1,12 @@
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.exe
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.deps.json
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.runtimeconfig.json
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.runtimeconfig.dev.json
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.dll
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\bin\Debug\netcoreapp3.1\ConsoleAppTDD.pdb
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.AssemblyInfoInputs.cache
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.AssemblyInfo.cs
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.csproj.CoreCompileInputs.cache
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.dll
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.pdb
+C:\Users\LE BASMATI\source\repos\ConsoleAppTDD\ConsoleAppTDD\obj\Debug\netcoreapp3.1\ConsoleAppTDD.genruntimeconfig.cache
